@@ -1,0 +1,12 @@
+{
+  "name": "mcx-premium-landing",
+  "version": "1.0.0",
+  "description": "MCX Premium Calls Landing Page",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
